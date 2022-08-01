@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+
+  margin-top: 2em;
+}
+
+.button {
+  margin-top: 1.25em;
+}
+
+.alerts {
+  margin-top: 1em;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.alert-item {
+  margin: 1em 0;
+  width: 350px;
+}
+
+/* Card */
+.card {
+  margin: 2em auto;
+}
